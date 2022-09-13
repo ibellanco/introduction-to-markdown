@@ -6,3 +6,6 @@
 ##### Header 5
 ###### Is this even a header?
 Not at all
+
+# An image!
+![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
