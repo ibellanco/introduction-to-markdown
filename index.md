@@ -9,3 +9,13 @@ Not at all
 
 # An image!
 ![Image of Boxertocat](https://octodex.github.com/images/boxertocat_octodex.jpg)
+
+## A piece of code!
+```
+
+import sql
+
+for i in z:
+  i=z+1
+print i
+```
