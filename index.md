@@ -19,3 +19,8 @@ for i in z:
   i=z+1
 print i
 ```
+
+A task list:
+- [x] First item
+- [x] Second item
+- [ ] Third item
